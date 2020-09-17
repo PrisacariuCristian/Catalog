@@ -42,3 +42,9 @@ Catalog/.vs/Catalog/v14/
 *.vcxproj
 
 *.filters
+
+*.cbp
+
+Catalog/.vs/Catalog/v16/
+
+Catalog/.vs/
