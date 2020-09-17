@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+Catalog/.vs/Catalog/v14/
+
+*.sln
+
+*.db
+
+*.opendb
+
+*.vcxproj
+
+*.filters
