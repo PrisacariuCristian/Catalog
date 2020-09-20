@@ -2,6 +2,8 @@
 
 #include "CompiledHeaders.h"
 
+static unsigned short int temp = 0;
+
 class Student
 {
 public:
