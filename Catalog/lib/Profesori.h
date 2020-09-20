@@ -10,7 +10,7 @@ class Profesori
 				  std::string prenume,
 				  std::string materie);
 
-		~Profesori()
+		~Profesori();
 
 	private:
 
